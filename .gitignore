@@ -1,0 +1,7 @@
+aug_test/
+datasets/
+datasets_actual/
+env/
+runs/
+runs_results/
+trainings/
